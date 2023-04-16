@@ -1,0 +1,4 @@
+django~=4.1.7
+flask
+numpy
+mysql-connector-python~=8.0.32
